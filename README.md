@@ -1,3 +1,3 @@
-google-homepage
-===============
-Odin Project
+Google Homepage
+www.theodinproject.com
+
